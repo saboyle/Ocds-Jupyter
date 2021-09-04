@@ -1,6 +1,6 @@
 # Thoughts / possible OCDS dev't options
 
-* **OCDS Multi-tenant PAAS (Platform as a service) - no/low friction implementation.  Simplified engagement **
+* **OCDS Multi-tenant PAAS (Platform as a service) - no/low friction implementation.  Simplified engagement / standardised consumption / easier reporting / possible subscription revenue generation **
 * Implementation of Jupyter examples demonstrating OCDS consumption and validation (https://github.com/saboyle/Ocds-Jupyter/blob/main/OCDS%20Interactive%20Notebook%201.ipynb).
 * Implementation of reference REST API over OCDS datastore based on HMRC implementation? (Flask?, NetCore Web API?, Suave? ) 
 * Refactoring of OCDS core lib (https://github.com/open-contracting/lib-cove-ocds), with documentation, diagrams to ease understanding and alternative implementations.
